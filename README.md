@@ -37,7 +37,7 @@
 * Export table information from quickDBD and create the crowfunding database in Postgres
 * Create the tables and import data
 * Using select* to verify the data in each table
-![Screenshot of campaign](screenshot_campaign.png)
-![Screenshot of category](screenshot_category.png)
-![Screenshot of subcategory](screenshot_subcategory.png)
-![Screenshot of contacts](screenshot_contacts.png)
+![Screenshot of campaign](campaign.png)
+![Screenshot of category](category.png)
+![Screenshot of subcategory](subcategory.png)
+![Screenshot of contacts](contacts.png)
